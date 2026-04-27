@@ -1,7 +1,7 @@
 # Car Price Prediction Using Linear Regression in R
 This repository contains an end-to-end Regression Modeling project using R to predict car prices from automobile specification data. The project includes missing value analysis, data cleaning, feature selection, model building, evaluation, and business interpretation.
 
-## Project Objective 
+## Project Objective
 To build a Linear Regression Model that predicts **Car Price** using important automobile features and evaluate model performance using test data.
 
 ## Dataset Used
